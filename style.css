@@ -152,6 +152,7 @@
         cursor: pointer;
         right: 3%;
         top: 21px;
+        display: none;
 
         .line {
             width: 33px;
@@ -169,7 +170,7 @@
         align-items: center;
         display: flex;
         justify-content: space-around;
-        width: 100vw;
+       
 
         .logo {
             img {
@@ -550,6 +551,7 @@
         align-items: center;
         justify-content: center;
         margin-left: 40px;
+        margin-right: 40px;
 
         video {
             min-width: 100vw;
